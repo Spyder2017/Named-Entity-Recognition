@@ -11,4 +11,5 @@
 - Jnlpba2004 BIOES
 
 #### Reference
-End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF(https://arxiv.org/abs/1603.01354)
+- [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354)
+- [基于CNN-LSTM-CRF模型的生物医学命名实体识别](http://www.cips-cl.org/static/anthology/CCL-2017/CCL-17-001.pdf)
