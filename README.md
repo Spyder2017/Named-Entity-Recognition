@@ -7,8 +7,8 @@
 - clipped_gradients
 
 #### Datasets
-- Conll2003 BIOES
-- Jnlpba2004 BIOES
+- [Conll2003](https://www.clips.uantwerpen.be/conll2003/) BIOES
+- [Jnlpba2004](http://www.nactem.ac.uk/tsujii/GENIA/ERtask/report.html) BIOES
 
 #### Reference
 - [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354)
