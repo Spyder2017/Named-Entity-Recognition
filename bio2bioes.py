@@ -1,3 +1,4 @@
+
 import codecs,re
 
 def iob2(tags):
