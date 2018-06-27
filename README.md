@@ -3,7 +3,7 @@
 #### Model
 - Attention mechanism
 - CNNs-BiLSTM-CRF
-- self-adaption learning
+- self-adaption learning 
 - clipped_gradients
 
 #### Datasets
